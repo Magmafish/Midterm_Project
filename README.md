@@ -10,8 +10,11 @@ The idea of this project is to segment the neighborhoods of New York City into s
     - [Foursquare](https://developer.foursquare.com/places)
     - [Yelp](https://www.yelp.com/developers/documentation/v3/get_started)
     - [Google Places API](https://developers.google.com/places/web-service/intro)
+    
 - [Uber rides](https://data.world/data-society/uber-pickups-in-nyc) 
+
 - [meetups](https://www.meetup.com/meetup_api/)
+
 - There could be something interesting in [NYC Open Data](https://data.cityofnewyork.us/browse?sortBy=most_accessed&utf8=%E2%9C%93)
 - You can use different data that come to your mind as well
 
