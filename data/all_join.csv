@@ -32,7 +32,7 @@ Boerum Hill,nyu_2451_34572.88,Brooklyn,Point,-73.983748,40.685683,Boerum Hill,20
 Borough Park,nyu_2451_34572.81,Brooklyn,Point,-73.990498,40.633131,Borough Park,,,,,1599,1700,1873
 Breezy Point,nyu_2451_34572.173,Queens,Point,-73.925512,40.557401,,,,,,,,
 Broadway Corridor,MJB.2,Manhattan,Point,-73.983159,40.812968,Broadway Corridor,2328,3851,4616,6197,,,
-Bowery,MJB.3,Manhattan,,-73.991557,40.721704,Bowery,,,,,2500,2999,2850
+Bowery,MJB.3,Manhattan,Point,-73.991557,40.721704,Bowery,,,,,2500,2999,2850
 Briarwood,nyu_2451_34572.160,Queens,Point,-73.811748,40.710935,Briarwood,,,,,1438,1700,2050
 Brighton Beach,nyu_2451_34572.52,Brooklyn,Point,-73.965094,40.576825,Brighton Beach,,,,,1750,1850,2050
 Broad Channel,nyu_2451_34572.172,Queens,Point,-73.820055,40.603027,Broad Channel,,,,,,,
@@ -52,7 +52,7 @@ Carroll Gardens,nyu_2451_34572.67,Brooklyn,Point,-73.994654,40.68054,Carroll Gar
 Castle Hill,nyu_2451_34572.41,Bronx,Point,-73.848027,40.819014,Castle Hill,,,,,,,2300
 Castleton Corners,nyu_2451_34572.209,Staten Island,Point,-74.119181,40.613336,Castleton Corners,,,,,,,1400
 Central Harlem,nyu_2451_34572.106,Manhattan,Point,-73.943211,40.815976,Harlem,1899,2389,3079,4148,2300,2647,2400
-Central Park,MJB.5,Manhattan,,-73.979667,40.765215,Central Park,2362,3563,7266,14463,2400,3623,3325
+Central Park,MJB.5,Manhattan,Point,-73.979667,40.765215,Central Park,2362,3563,7266,14463,2400,3623,3325
 Charleston,nyu_2451_34572.240,Staten Island,Point,-74.232158,40.530531,,,,,,,,3325
 Chelsea,nyu_2451_34572.117,Manhattan,Point,-74.003116,40.744035,Chelsea,2794,4062,6997,11031,2323,3125,4959
 Chelsea,nyu_2451_34572.245,Staten Island,Point,-74.18956,40.594726,,,,,,,,
@@ -74,7 +74,7 @@ Concourse Village,nyu_2451_34572.269,Bronx,Point,-73.915847,40.82478,Concourse V
 Coney Island,nyu_2451_34572.79,Brooklyn,Point,-73.988683,40.574293,Coney Island,,,,,1500,2250,2400
 Co-op City,nyu_2451_34572.2,Bronx,Point,-73.829939,40.874294,Co-Op City,,,,,,,1575
 Corona,nyu_2451_34572.135,Queens,Point,-73.856825,40.742382,Corona,,,,,1759,1600,1950
-Crotona Park East,MJB.7,Bronx?,,-73.893348,40.83656,Crotona Park East,,,,,,,2000
+Crotona Park East,MJB.7,Bronx?,Point,-73.893348,40.83656,Crotona Park East,,,,,,,2000
 Country Club,nyu_2451_34572.30,Bronx,Point,-73.824099,40.844246,Country Club,,,,,,1750,
 Crown Heights,nyu_2451_34572.56,Brooklyn,Point,-73.943291,40.670829,Crown Heights,1806,2310,2582,3185,1945,1850,2200
 Cypress Hills,nyu_2451_34572.72,Brooklyn,Point,-73.876616,40.682391,Cypress Hills,,,,,,1900,1993
@@ -210,7 +210,7 @@ New Dorp Beach,nyu_2451_34572.235,Staten Island,Point,-74.104327,40.564255,,,,,,
 New Lots,nyu_2451_34572.261,Brooklyn,Point,-73.885118,40.662744,,,,,,,,
 New Springville,nyu_2451_34572.210,Staten Island,Point,-74.16496,40.594252,New Springville,,,,,,1450,1850
 Noho,nyu_2451_34572.249,Manhattan,Point,-73.988434,40.723259,NoHo,5121,6117,9678,16413,2487,3200,7248
-NoLiTa,MJB.15,Manhattan,,-73.995149,40.722386,NoLiTa,2683,4280,4833,10648,2970,3025,3500
+NoLiTa,MJB.15,Manhattan,Point,-73.995149,40.722386,NoLiTa,2683,4280,4833,10648,2970,3025,3500
 North Corona,nyu_2451_34572.196,Queens,Point,-73.857518,40.754071,Flushing Meadows-Corona Park,,,,,1600,1975,2300
 NoMad,MJB.16,Manhattan,Point,-73.986659,40.744109,NoMad,,,,,1200,4750,7150
 North Riverdale,nyu_2451_34572.37,Bronx,Point,-73.904531,40.908543,,,,,,,,
@@ -305,7 +305,7 @@ University Heights,nyu_2451_34572.15,Bronx,Point,-73.910416,40.855727,University
 Upper East Side,nyu_2451_34572.108,Manhattan,Point,-73.960508,40.775639,Upper East Side,,,,,1975,2395,3295
 Upper West Side,nyu_2451_34572.112,Manhattan,Point,-73.977059,40.787658,Upper West Side,,,,,1400,2750,4350
 Utopia,nyu_2451_34572.265,Queens,Point,-73.796717,40.7335,,,,,,,,
-Van Cortlandt Village,MJB.22,Bronx,,-73.894275,40.883644,Van Cortlandt Village,,,,,2700,1500,1983
+Van Cortlandt Village,MJB.22,Bronx,Point,-73.894275,40.883644,Van Cortlandt Village,,,,,2700,1500,1983
 Van Nest,nyu_2451_34572.33,Bronx,Point,-73.866299,40.843608,Van Nest,,,,,,1875,2200
 Vinegar Hill,nyu_2451_34572.281,Brooklyn,Point,-73.981116,40.703321,Vinegar Hill,,,,,1475,2400,4500
 Wakefield,nyu_2451_34572.1,Bronx,Point,-73.847201,40.894705,Wakefield,,,,,1650,1600,1800
