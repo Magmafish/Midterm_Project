@@ -1,0 +1,330 @@
+﻿neighborhood,id,borough,type,long,lat,neighborhood,studio_2020,br_1_2020,br_2_2020,br_3_2020,studio_2021,br_1_2021,br_2_2021
+Allerton,nyu_2451_34572.299,Bronx,Point,-73.859319,40.865788,Allerton,,,,,1450,1625,1800
+Annadale,nyu_2451_34572.216,Staten Island,Point,-74.178549,40.538114,Annadale,,,,,,1450,
+Arden Heights,nyu_2451_34572.242,Staten Island,Point,-74.185887,40.549286,Arden Heights,,,,,,,2250
+Arlington,nyu_2451_34572.228,Staten Island,Point,-74.165104,40.635325,Arlington,,,,,,,
+Arrochar,nyu_2451_34572.229,Staten Island,Point,-74.067124,40.596313,Arrochar,,,,,,,
+Arverne,nyu_2451_34572.178,Queens,Point,-73.791992,40.589144,Arverne,,,,,,,
+Astoria,nyu_2451_34572.130,Queens,Point,-73.915654,40.768509,Astoria,,,,,1575,1875,2200
+Astoria Heights,nyu_2451_34572.267,Queens,Point,-73.89468,40.770317,Astoria Heights,,,,,,,
+Auburndale,nyu_2451_34572.153,Queens,Point,-73.791762,40.76173,Auburndale,,,,,1795,1780,2175
+Bath Beach,nyu_2451_34572.80,Brooklyn,Point,-73.998752,40.599519,Bath Beach,,,,,3000,1575,1825
+Battery Park City,nyu_2451_34572.128,Manhattan,Point,-74.016869,40.711932,Battery Park City,2823,3573,6859,10574,2200,2733,4431
+Bay Ridge,nyu_2451_34572.47,Brooklyn,Point,-74.030621,40.625801,Bay Ridge,,,,,2038,1750,2109
+Bay Terrace,nyu_2451_34572.176,Queens,Point,-73.776802,40.782843,Bay Terrace,,,,,,,
+Bay Terrace,nyu_2451_34572.236,Staten Island,Point,-74.139166,40.553988,Bay Terrace,,,,,,,
+Baychester,nyu_2451_34572.11,Bronx,Point,-73.835798,40.866858,Baychester,,,,,,,
+Bayside,nyu_2451_34572.152,Queens,Point,-73.774274,40.766041,Bayside,,,,,1850,1850,2300
+Bayswater,nyu_2451_34572.304,Queens,Point,-73.765968,40.611322,Bayswater,,,,,,,
+Bedford Park,nyu_2451_34572.14,Bronx,Point,-73.885512,40.870185,Bedford Park,,,,,1413,1525,2100
+Bedford Stuyvesant,nyu_2451_34572.64,Brooklyn,Point,-73.941785,40.687232,Bedford Stuyvesant,2044,2297,2611,3214,1650,1975,2200
+Beechhurst,nyu_2451_34572.175,Queens,Point,-73.804365,40.792781,,,,,,,,
+Beekman/Sutton Place,,Manhattan,Point,-73.964809,40.753385,Beekman/Sutton Place,2676,3622,5217,6497,,,
+Bellaire,nyu_2451_34572.195,Queens,Point,-73.738892,40.733014,Bellaire,,,,,,,
+Belle Harbor,nyu_2451_34572.191,Queens,Point,-73.854018,40.576156,Belle Harbor,,,,,,,
+Bellerose,nyu_2451_34572.157,Queens,Point,-73.720128,40.728573,Bellerose,,,,,,1750,2200
+Belmont,nyu_2451_34572.35,Bronx,Point,-73.888452,40.857277,Belmont,,,,,,1650,1856
+Bensonhurst,nyu_2451_34572.48,Brooklyn,Point,-73.99518,40.611009,Bensonhurst,,,,,4200,1500,1795
+Bergen Beach,nyu_2451_34572.92,Brooklyn,Point,-73.898556,40.61515,Bergen Beach,,,,,,1500,1900
+Blissville,nyu_2451_34572.279,Queens,Point,-73.932442,40.737251,Blissville,,,,,,1600,2000
+Bloomfield,nyu_2451_34572.246,Staten Island,Point,-74.187256,40.605779,Bloomfield,,,,,,,
+Boerum Hill,nyu_2451_34572.88,Brooklyn,Point,-73.983748,40.685683,Boerum Hill,2092,2854,4356,4921,2446,2300,2750
+Borough Park,nyu_2451_34572.81,Brooklyn,Point,-73.990498,40.633131,Borough Park,,,,,1599,1700,1873
+Breezy Point,nyu_2451_34572.173,Queens,Point,-73.925512,40.557401,,,,,,,,
+Broadway Corridor,,Manhattan,Point,-73.983159,40.812968,Broadway Corridor,2328,3851,4616,6197,,,
+Bowery,,Manhattan,,-73.991557,40.721704,Bowery,,,,,2500,2999,2850
+Briarwood,nyu_2451_34572.160,Queens,Point,-73.811748,40.710935,Briarwood,,,,,1438,1700,2050
+Brighton Beach,nyu_2451_34572.52,Brooklyn,Point,-73.965094,40.576825,Brighton Beach,,,,,1750,1850,2050
+Broad Channel,nyu_2451_34572.172,Queens,Point,-73.820055,40.603027,Broad Channel,,,,,,,
+Broadway Junction,nyu_2451_34572.283,Brooklyn,Point,-73.903317,40.677861,Broadway Junction,,,,,,,
+Bronxdale,nyu_2451_34572.298,Bronx,Point,-73.861726,40.852723,Bronxdale,,,,,,,
+Brooklyn Heights,nyu_2451_34572.65,Brooklyn,Point,-73.993782,40.695864,Brooklyn Heights,2509,3270,5983,8654,1850,2600,3450
+Brooklyn Navy Yard,,Brooklyn,Point,-73.972412,40.702087,Brooklyn Navy Yard,,,,,3000,3395,5345
+Brookville,nyu_2451_34572.194,Queens,Point,-73.751753,40.660003,Brookville,,,,,,,2250
+Brownsville,nyu_2451_34572.61,Brooklyn,Point,-73.910235,40.66395,Brownsville,,,,,1895,1650,1888
+Bulls Head,nyu_2451_34572.247,Staten Island,Point,-74.159409,40.609592,Bulls Head,,,,,,1100,1475
+Bushwick,nyu_2451_34572.63,Brooklyn,Point,-73.925258,40.698116,Bushwick,2050,2373,2749,2851,1731,2150,2100
+Butler Manor,nyu_2451_34572.239,Staten Island,Point,-74.229504,40.506082,Butler Manor,,,,,,,
+Cambria Heights,nyu_2451_34572.169,Queens,Point,-73.735269,40.692775,Cambria Heights,,,,,,,
+Canarsie,nyu_2451_34572.75,Brooklyn,Point,-73.902093,40.635564,Canarsie,,,,,2000,1500,1950
+Carnegie Hill,nyu_2451_34572.248,Manhattan,Point,-73.953256,40.782683,Carnegie Hill,2307,3266,5547,11529,,,
+Carroll Gardens,nyu_2451_34572.67,Brooklyn,Point,-73.994654,40.68054,Carroll Gardens,2271,2634,3914,5027,2175,2400,3000
+Castle Hill,nyu_2451_34572.41,Bronx,Point,-73.848027,40.819014,Castle Hill,,,,,,,2300
+Castleton Corners,nyu_2451_34572.209,Staten Island,Point,-74.119181,40.613336,Castleton Corners,,,,,,,1400
+Central Harlem,nyu_2451_34572.106,Manhattan,Point,-73.943211,40.815976,Harlem,1899,2389,3079,4148,2300,2647,2400
+Central Park,,Manhattan,,-73.979667,40.765215,Central Park,2362,3563,7266,14463,2400,3623,3325
+Charleston,nyu_2451_34572.240,Staten Island,Point,-74.232158,40.530531,,,,,,,,3325
+Chelsea,nyu_2451_34572.117,Manhattan,Point,-74.003116,40.744035,Chelsea,2794,4062,6997,11031,2323,3125,4959
+Chelsea,nyu_2451_34572.245,Staten Island,Point,-74.18956,40.594726,,,,,,,,
+Chinatown,nyu_2451_34572.101,Manhattan,Point,-73.994279,40.715618,Chinatown,,,,,3000,2850,2200
+City Island,nyu_2451_34572.13,Bronx,Point,-73.786488,40.847247,City Island,,,,,,1600,2350
+City Line,nyu_2451_34572.91,Brooklyn,Point,-73.867976,40.67857,,,,,,,,
+Civic Center,nyu_2451_34572.250,Manhattan,Point,-74.005415,40.715229,Civic Center,,,,,2288,3000,3690
+Claremont Village,nyu_2451_34572.268,Bronx,Point,-73.901199,40.831428,,,,,,,,
+Clason Point,nyu_2451_34572.28,Bronx,Point,-73.854144,40.806551,Clason Point,,,,,1700,1700,2100
+Clearview,,Queens,Point,-73.796978,40.779985,Clearview,,,,,1900,1500,2300
+Clifton,nyu_2451_34572.254,Staten Island,Point,-74.072642,40.619178,,,,,,,,
+Clinton,nyu_2451_34572.114,Manhattan,Point,-73.996119,40.759101,,,,,,,,
+Clinton Hill,nyu_2451_34572.85,Brooklyn,Point,-73.967843,40.693229,Clinton Hill,2409,2776,3450,4204,1800,2300,2950
+Cobble Hill,nyu_2451_34572.66,Brooklyn,Point,-73.998561,40.68792,Cobble Hill,2100,2734,4222,6122,1457,2400,2700
+College Point,nyu_2451_34572.150,Queens,Point,-73.843045,40.784903,College Point,,,,,,1680,1900
+Concord,nyu_2451_34572.255,Staten Island,Point,-74.084024,40.604473,Concord,,,,,,1300,1900
+Concourse,nyu_2451_34572.44,Bronx,Point,-73.915589,40.834284,Concourse,,,,,1750,1650,2000
+Concourse Village,nyu_2451_34572.269,Bronx,Point,-73.915847,40.82478,Concourse Village,,,,,2250,1700,2195
+Coney Island,nyu_2451_34572.79,Brooklyn,Point,-73.988683,40.574293,Coney Island,,,,,1500,2250,2400
+Co-op City,nyu_2451_34572.2,Bronx,Point,-73.829939,40.874294,Co-Op City,,,,,,,1575
+Corona,nyu_2451_34572.135,Queens,Point,-73.856825,40.742382,Corona,,,,,1759,1600,1950
+Crotona Park East,,Bronx?,,-73.893348,40.83656,Crotona Park East,,,,,,,2000
+Country Club,nyu_2451_34572.30,Bronx,Point,-73.824099,40.844246,Country Club,,,,,,1750,
+Crown Heights,nyu_2451_34572.56,Brooklyn,Point,-73.943291,40.670829,Crown Heights,1806,2310,2582,3185,1945,1850,2200
+Cypress Hills,nyu_2451_34572.72,Brooklyn,Point,-73.876616,40.682391,Cypress Hills,,,,,,1900,1993
+Ditmas Park,nyu_2451_34572.222,Brooklyn,Point,-73.961013,40.643675,,,,,,,,
+Dongan Hills,nyu_2451_34572.232,Staten Island,Point,-74.096399,40.588673,Dongan Hills,,,,,,1300,1800
+Douglaston,nyu_2451_34572.155,Queens,Point,-73.742498,40.766846,Douglaston,,,,,2310,2058,2645
+Downtown,nyu_2451_34572.87,Brooklyn,Point,-73.983463,40.690844,Downtown Brooklyn,2443,3218,4548,6048,2546,3150,4057
+Dumbo,nyu_2451_34572.284,Brooklyn,Point,-73.988753,40.703176,DUMBO,3189,4132,6086,9144,2300,3386,5895
+Dyker Heights,nyu_2451_34572.82,Brooklyn,Point,-74.019314,40.619219,Dyker Heights,,,,,2700,1550,1900
+East Elmhurst,nyu_2451_34572.142,Queens,Point,-73.867041,40.764073,East Elmhurst,,,,,,1700,2000
+East Flatbush,nyu_2451_34572.57,Brooklyn,Point,-73.936103,40.641718,East Flatbush,,,,,1600,1725,1950
+East Harlem,nyu_2451_34572.107,Manhattan,Point,-73.944182,40.792249,East Harlem,2010,2367,3268,3880,1575,2000,2300
+East New York,nyu_2451_34572.73,Brooklyn,Point,-73.880699,40.669926,East New York,,,,,1850,1750,1995
+East Tremont,nyu_2451_34572.18,Bronx,Point,-73.887356,40.842696,East Tremont,,,,,,,1800
+East Village,nyu_2451_34572.119,Manhattan,Point,-73.982226,40.727847,East Village,2608,3280,4044,5289,1563,2425,2933
+East Williamsburg,nyu_2451_34572.96,Brooklyn,Point,-73.938858,40.708492,,,,,,,,
+Eastchester,nyu_2451_34572.3,Bronx,Point,-73.827806,40.887556,,,,,,,,
+Edenwald,nyu_2451_34572.46,Bronx,Point,-73.848083,40.884561,,,,,,,,
+Edgemere,nyu_2451_34572.177,Queens,Point,-73.776133,40.595642,,,,,,,,
+Edgewater Park,nyu_2451_34572.40,Bronx,Point,-73.813885,40.821986,,,,,,,,
+Egbertville,nyu_2451_34572.288,Staten Island,Point,-74.127272,40.579119,,,,,,,,
+Elm Park,nyu_2451_34572.259,Staten Island,Point,-74.141817,40.630147,,,,,,,,
+Elmhurst,nyu_2451_34572.133,Queens,Point,-73.881656,40.744049,Elmhurst,,,,,1823,1800,2236
+Eltingville,nyu_2451_34572.215,Staten Island,Point,-74.164331,40.542231,Eltingville,,,,,,1300,1800
+Emerson Hill,nyu_2451_34572.256,Staten Island,Point,-74.097762,40.606794,,,,,,,,
+Erasmus,nyu_2451_34572.301,Brooklyn,Point,-73.948177,40.646926,,,,,,,,
+Far Rockaway,nyu_2451_34572.171,Queens,Point,-73.75498,40.603134,Far Rockaway,,,,,2195,1775,2160
+Fieldston,nyu_2451_34572.4,Bronx,Point,-73.905643,40.895437,,,,,,,,
+Financial District,nyu_2451_34572.129,Manhattan,Point,-74.010665,40.707107,Financial District,2955,3965,6065,10653,1618,3027,3650
+Flatbush,nyu_2451_34572.55,Brooklyn,Point,-73.958401,40.636326,Flatbush,,,,,4098,1800,2117
+Flatiron,nyu_2451_34572.277,Manhattan,Point,-73.990947,40.739673,Flatiron District,3632,4645,8267,15969,2200,5483,9295
+Flatlands,nyu_2451_34572.76,Brooklyn,Point,-73.929113,40.630446,Flatlands,,,,,1600,1600,2000
+Floral Park,nyu_2451_34572.182,Queens,Point,-73.708847,40.741378,Floral Park,,,,,,,2300
+Flushing,nyu_2451_34572.139,Queens,Point,-73.831773,40.764454,Flushing,,,,,1650,1750,2150
+Fordham,nyu_2451_34572.17,Bronx,Point,-73.896427,40.860997,Fordham,,,,,1575,1650,2025
+Forest Hills,nyu_2451_34572.136,Queens,Point,-73.844475,40.725264,Forest Hills,,,,,1450,1900,2300
+Forest Hills Gardens,nyu_2451_34572.197,Queens,Point,-73.841022,40.714611,Forest Park,,,,,2200,1700,2000
+Fort Greene,nyu_2451_34572.70,Brooklyn,Point,-73.972906,40.688527,Fort Greene,2957,2508,4213,6760,947,2500,3000
+Fort Hamilton,nyu_2451_34572.100,Brooklyn,Point,-74.031979,40.614768,,,,,,,3350,5595
+Foxhurst,,Bronx?,Point,-73.892691,40.825558,Foxhurst,,,,,2923,1550,1750
+Fox Hills,nyu_2451_34572.306,Staten Island,Point,-74.08174,40.617311,,,,,,,,
+Fresh Meadows,nyu_2451_34572.159,Queens,Point,-73.782713,40.734394,Fresh Meadows,,,,,,1750,2200
+Fulton Ferry,nyu_2451_34572.280,Brooklyn,Point,-73.995508,40.703281,,,,,,,,
+Garment District,,Manhattan,Point,-73.990759,40.753735,Garment District,,,,,1400,3175,4000
+Georgetown,nyu_2451_34572.95,Brooklyn,Point,-73.916075,40.623845,,,,,,,,
+Gerritsen Beach,nyu_2451_34572.83,Brooklyn,Point,-73.930102,40.590848,Gerritsen Beach,,,,,,,2600
+Glen Oaks,nyu_2451_34572.156,Queens,Point,-73.715481,40.749441,Glen Oaks,,,,,,1738,2000
+Glendale,nyu_2451_34572.145,Queens,Point,-73.870742,40.702762,Glendale,,,,,2000,1675,2000
+Gowanus,nyu_2451_34572.69,Brooklyn,Point,-73.994441,40.673931,Gowanus,2293,2796,3588,3687,2400,2000,2350
+Gramercy Park,nyu_2451_34572.127,Manhattan,Point,-73.981376,40.73721,Gramercy Park,2569,3656,5413,7226,5800,3398,3630
+Graniteville,nyu_2451_34572.227,Staten Island,Point,-74.153152,40.620172,Graniteville,,,,,,,1850
+Grant City,nyu_2451_34572.234,Staten Island,Point,-74.105856,40.576216,Grant City,,,,,,,1900
+Grasmere,nyu_2451_34572.230,Staten Island,Point,-74.076674,40.598268,,,,,,,,
+Gravesend,nyu_2451_34572.51,Brooklyn,Point,-73.973471,40.59526,Gravesend,,,,,2350,1600,1838
+Great Kills,nyu_2451_34572.214,Staten Island,Point,-74.149324,40.54948,Great Kills,,,,,,1400,1750
+Greenpoint,nyu_2451_34572.50,Brooklyn,Point,-73.954241,40.730201,Greenpoint,2347,2812,3708,5278,2300,2400,2550
+Greenridge,nyu_2451_34572.243,Staten Island,Point,-74.170794,40.555295,,,,,,,,
+Greenwich Village,nyu_2451_34572.118,Manhattan,Point,-73.999914,40.726933,Greenwich Village,2828,4116,8000,12418,2100,3495,4500
+Greenwood Heights,,Brooklyn,Point,-73.997425,40.657649,Greenwood Heights,,,,,2012,1900,2100
+Grymes Hill,nyu_2451_34572.203,Staten Island,Point,-74.087248,40.624185,Grymes Hill,,,,,,1500,
+Hamilton Heights,nyu_2451_34572.104,Manhattan,Point,-73.949688,40.823604,Hamilton Heights,1992,2118,2589,3174,,,
+Hammels,nyu_2451_34572.303,Queens,Point,-73.80553,40.587338,,,,,,,,
+Hell's Kitchen,,Manhattan,Point,-73.993621,40.762535,Hell's Kitchen,,,,,1600,2742,3900
+Heartland Village,nyu_2451_34572.244,Staten Island,Point,-74.159022,40.589139,,,,,,,,
+Highbridge,nyu_2451_34572.20,Bronx,Point,-73.926102,40.836623,Highbridge,,,,,1350,1725,1900
+Highland Park,nyu_2451_34572.296,Brooklyn,Point,-73.890346,40.681999,,,,,,,,
+Hillcrest,nyu_2451_34572.186,Queens,Point,-73.797603,40.723825,Hillcrest,,,,,,1650,2100
+Hollis,nyu_2451_34572.164,Queens,Point,-73.75925,40.711243,Hollis,,,,,,1600,2000
+Holliswood,nyu_2451_34572.183,Queens,Point,-73.767142,40.720957,Holliswood,,,,,,1895,1852
+Homecrest,nyu_2451_34572.290,Brooklyn,Point,-73.959185,40.598525,,,,,,,,
+Howard Beach,nyu_2451_34572.134,Queens,Point,-73.838138,40.654225,Howard Beach,,,,,1600,1675,2200
+Howland Hook,nyu_2451_34572.258,Staten Island,Point,-74.186223,40.638433,,,,,,,,
+Hudson Yards,nyu_2451_34572.302,Manhattan,Point,-74.000111,40.756658,,,,,,,,
+Huguenot,nyu_2451_34572.237,Staten Island,Point,-74.191741,40.531912,Huguenot,,,,,,1350,
+Hunters Point,nyu_2451_34572.273,Queens,Point,-73.953868,40.743414,,,,,,,,
+Hunts Point,nyu_2451_34572.25,Bronx,Point,-73.883315,40.80973,Hunts Point,,,,,,1350,1500
+Inwood,nyu_2451_34572.103,Manhattan,Point,-73.92121,40.867684,Inwood,1657,1876,2273,2570,1575,1733,2100
+Jackson Heights,nyu_2451_34572.132,Queens,Point,-73.882821,40.751981,Jackson Heights,,,,,1600,1800,2150
+Jamaica Center,nyu_2451_34572.161,Queens,Point,-73.796902,40.704657,Jamaica Center,,,,,1575,1815,2200
+Jamaica Estates,nyu_2451_34572.184,Queens,Point,-73.787227,40.716805,Jamaica Estates,,,,,1375,1738,2350
+Jamaica Hills,nyu_2451_34572.264,Queens,Point,-73.796465,40.71146,Jamaica Hills,,,,,1500,1600,2300
+Kensington,nyu_2451_34572.58,Brooklyn,Point,-73.980421,40.642382,Kensington,1724,1866,2925,3215,1450,1675,2123
+Kew Gardens,nyu_2451_34572.137,Queens,Point,-73.829819,40.705179,Kew Gardens,,,,,1450,1800,2125
+Kew Gardens Hills,nyu_2451_34572.158,Queens,Point,-73.820878,40.722578,Kew Gardens Hills,,,,,1500,1699,2100
+Kingsbridge,nyu_2451_34572.6,Bronx,Point,-73.902818,40.881687,Kingsbridge,,,,,2150,1700,2198
+Kingsbridge Heights,nyu_2451_34572.300,Bronx,Point,-73.901523,40.870392,,,,,,,,
+Kips Bay,,Manhattan,Point,-73.977322,40.741068,Kips Bay,,,,,2125,2698,3646
+Koreatown,,Manhattan,Point,-73.98678,40.74771,Koreatown,,,,,1085,2500,2888
+Laurelton,nyu_2451_34572.189,Queens,Point,-73.740256,40.667884,Laurelton,,,,,3098,1600,2000
+Lefrak City,nyu_2451_34572.190,Queens,Point,-73.862525,40.736075,,,,,,,,
+Lenox Hill,nyu_2451_34572.110,Manhattan,Point,-73.95886,40.768113,Lenox Hill,2316,3277,5106,8553,,,
+Lighthouse Hill,nyu_2451_34572.293,Staten Island,Point,-74.137927,40.576506,,,,,,,,
+Lincoln Square,nyu_2451_34572.113,Manhattan,Point,-73.985338,40.773529,Lincoln Center,2662,4033,6484,9851,,,
+Lindenwood,nyu_2451_34572.188,Queens,Point,-73.849638,40.663918,,,,,,,,
+Little Italy,nyu_2451_34572.122,Manhattan,Point,-73.997305,40.719324,Little Italy,2683,4280,4833,10648,1971,2250,3850
+Little Neck,nyu_2451_34572.154,Queens,Point,-73.738898,40.770826,Little Neck,,,,,,1875,3275
+Long Island City,nyu_2451_34572.140,Queens,Point,-73.939202,40.750217,Long Island City,,,,,2275,2500,3300
+Longwood,nyu_2451_34572.24,Bronx,Point,-73.895788,40.815099,Longwood,,,,,,,1377
+Lower East Side,nyu_2451_34572.120,Manhattan,Point,-73.98089,40.717807,Lower East Side,2710,3524,4699,5543,1595,2375,3195
+Madison,nyu_2451_34572.297,Brooklyn,Point,-73.948415,40.609378,,,,,,,,
+Malba,nyu_2451_34572.295,Queens,Point,-73.826678,40.790602,,,,,,,,
+Manhattan Beach,nyu_2451_34572.78,Brooklyn,Point,-73.943537,40.577914,Manhattan Beach,,,,,2000,1775,2250
+Manhattan Terrace,nyu_2451_34572.54,Brooklyn,Point,-73.957438,40.614433,,,,,,,,
+Manhattan Valley,nyu_2451_34572.125,Manhattan,Point,-73.964286,40.797307,,,,,,,,
+Manhattanville,nyu_2451_34572.105,Manhattan,Point,-73.957385,40.816934,,,,,,,,
+Manor Heights,nyu_2451_34572.285,Staten Island,Point,-74.120594,40.60181,Manor Heights,,,,,,1200,1450
+Mapleton,,Brooklyn,Point,-73.980701,40.619768,Mapleton,,,,,,1590,1750
+Marble Hill,nyu_2451_34572.7,Manhattan,Point,-73.91066,40.876551,Marble Hill,,,,,,1400,1825
+Marine Park,nyu_2451_34572.84,Brooklyn,Point,-73.931344,40.609748,Marine Park,,,,,,1650,2100
+Mariner's Harbor,nyu_2451_34572.207,Staten Island,Point,-74.150085,40.632546,,,,,,,,
+Maspeth,nyu_2451_34572.143,Queens,Point,-73.896217,40.725427,Maspeth,,,,,2100,1750,2000
+Melrose,nyu_2451_34572.21,Bronx,Point,-73.909422,40.819754,Melrose,,,,,,1600,2095
+Middle Village,nyu_2451_34572.291,Queens,Point,-73.881143,40.716415,Middle Village,,,,,,1800,2100
+Midland Beach,nyu_2451_34572.233,Staten Island,Point,-74.093483,40.573527,Midland Beach,,,,,,,1700
+Midtown,nyu_2451_34572.115,Manhattan,Point,-73.981669,40.754691,Midtown East,2485,3613,6711,12280,2200,3208,4600
+Midtown South,nyu_2451_34572.251,Manhattan,Point,-73.988713,40.74851,Midtown West,2589,3680,6138,14892,,,
+Midwood,nyu_2451_34572.93,Brooklyn,Point,-73.957595,40.625596,Midwood,,,,,1500,1688,2000
+Mill Basin,nyu_2451_34572.263,Brooklyn,Point,-73.915154,40.615974,Mill Basin,,,,,,,1950
+Mill Island,nyu_2451_34572.77,Brooklyn,Point,-73.908186,40.606336,,,,,,,,
+Morningside Heights,nyu_2451_34572.126,Manhattan,Point,-73.963896,40.808,Morningside Heights,2329,2929,3179,4105,,,
+Morris Heights,nyu_2451_34572.16,Bronx,Point,-73.919672,40.847898,Morris Heights,,,,,1600,1625,1900
+Morris Park,nyu_2451_34572.34,Bronx,Point,-73.850402,40.847549,Morris Park,,,,,2300,1500,2050
+Morrisania,nyu_2451_34572.26,Bronx,Point,-73.901506,40.823592,Morrisania,,,,,,,1879
+Mott Haven,nyu_2451_34572.22,Bronx,Point,-73.9161,40.806239,Mott Haven,,,,,1250,2100,2295
+Mount Eden,nyu_2451_34572.270,Bronx,Point,-73.916556,40.843826,Mount Eden,,,,,1313,1685,2000
+Mount Hope,nyu_2451_34572.271,Bronx,Point,-73.908299,40.848842,Mount Hope,,,,,2400,1575,1825
+Murray Hill,nyu_2451_34572.116,Manhattan,Point,-73.978332,40.748303,Murray Hill,2474,3426,4653,6568,2275,3350,4678
+Murray Hill,nyu_2451_34572.181,Queens,Point,-73.812763,40.764126,,,,,,,,
+Neponsit,nyu_2451_34572.180,Queens,Point,-73.857547,40.572037,,,,,,,,
+New Brighton,nyu_2451_34572.199,Staten Island,Point,-74.087017,40.640615,New Brighton,,,,,,,1800
+New Dorp,nyu_2451_34572.212,Staten Island,Point,-74.116479,40.572572,New Dorp,,,,,,1550,1500
+New Dorp Beach,nyu_2451_34572.235,Staten Island,Point,-74.104327,40.564255,,,,,,,,
+New Lots,nyu_2451_34572.261,Brooklyn,Point,-73.885118,40.662744,,,,,,,,
+New Springville,nyu_2451_34572.210,Staten Island,Point,-74.16496,40.594252,New Springville,,,,,,1450,1850
+Noho,nyu_2451_34572.249,Manhattan,Point,-73.988434,40.723259,NoHo,5121,6117,9678,16413,2487,3200,7248
+NoLiTa,,Manhattan,,-73.995149,40.722386,NoLiTa,2683,4280,4833,10648,2970,3025,3500
+North Corona,nyu_2451_34572.196,Queens,Point,-73.857518,40.754071,Flushing Meadows-Corona Park,,,,,1600,1975,2300
+NoMad,,Manhattan,Point,-73.986659,40.744109,NoMad,,,,,1200,4750,7150
+North Riverdale,nyu_2451_34572.37,Bronx,Point,-73.904531,40.908543,,,,,,,,
+North Side,nyu_2451_34572.97,Brooklyn,Point,-73.958809,40.714823,,,,,,,,
+Norwood,nyu_2451_34572.9,Bronx,Point,-73.879391,40.877224,Norwood,,,,,1700,1635,1895
+Oakland Gardens,nyu_2451_34572.162,Queens,Point,-73.75495,40.745619,,,,,,,,
+Oakwood,nyu_2451_34572.213,Staten Island,Point,-74.121566,40.558462,Oakwood,,,,,,1395,1725
+Ocean Hill,nyu_2451_34572.90,Brooklyn,Point,-73.913068,40.678403,Ocean Hill,,,,,2050,1800,2100
+Ocean Parkway,nyu_2451_34572.99,Brooklyn,Point,-73.968367,40.61306,,,,,,,,
+Old Town,nyu_2451_34572.231,Staten Island,Point,-74.087511,40.596329,,,,,,,,
+Olinville,nyu_2451_34572.42,Bronx,Point,-73.863324,40.871371,,,,,,,,
+Ozone Park,nyu_2451_34572.148,Queens,Point,-73.843203,40.680708,Ozone Park,,,,,2100,1600,2100
+Paerdegat Basin,nyu_2451_34572.262,Brooklyn,Point,-73.902335,40.631318,,,,,,,,
+Park Hill,nyu_2451_34572.225,Staten Island,Point,-74.080157,40.60919,,,,,,,,
+Park Slope,nyu_2451_34572.71,Brooklyn,Point,-73.97705,40.672321,Park Slope,2795,2739,3422,4883,2500,2475,2700
+Parkchester,nyu_2451_34572.31,Bronx,Point,-73.856003,40.837938,Parkchester,,,,,1150,1600,1889
+Park/Fifth Ave. to 79th St.,,Manhattan,Point,-73.955823,40.773673,Park/Fifth Ave. to 79th St.,4289,4535,12173,26970,,,
+Pelham Bay,nyu_2451_34572.38,Bronx,Point,-73.832074,40.850641,Pelham Bay,,,,,1700,1650,1950
+Pelham Gardens,nyu_2451_34572.43,Bronx,Point,-73.841612,40.862966,Pelham Gardens,,,,,,1350,
+Pelham Parkway,nyu_2451_34572.12,Bronx,Point,-73.854756,40.857413,Pelham Parkway,,,,,1916,1899,2150
+Pleasant Plains,nyu_2451_34572.238,Staten Island,Point,-74.219831,40.524699,,,,,,,,
+Pomonok,nyu_2451_34572.266,Queens,Point,-73.804861,40.734936,Pomonok,,,,,,1700,2100
+Port Ivory,nyu_2451_34572.208,Staten Island,Point,-74.174645,40.639683,,,,,,,,
+Port Morris,nyu_2451_34572.23,Bronx,Point,-73.913221,40.801664,,,,,,,,
+Port Richmond,nyu_2451_34572.206,Staten Island,Point,-74.129434,40.633669,,,,,,,,
+Prince's Bay,nyu_2451_34572.292,Staten Island,Point,-74.201526,40.526264,Prince's Bay,,,,,,1400,
+Prospect Heights,nyu_2451_34572.60,Brooklyn,Point,-73.964859,40.676822,Prospect Heights,2393,2823,3621,4320,1850,2375,2700
+Prospect Lefferts Gardens,nyu_2451_34572.89,Brooklyn,Point,-73.954899,40.65842,Prospect Lefferts Gardens,1933,2094,2911,3423,,,
+Prospect Park South,nyu_2451_34572.94,Brooklyn,Point,-73.962613,40.647009,Prospect Park,,,,,1699,2300,4650
+Queens Village,nyu_2451_34572.163,Queens,Point,-73.738715,40.718893,Queens Village,,,,,2750,1650,2000
+Queensboro Hill,nyu_2451_34572.185,Queens,Point,-73.825809,40.744572,,,,,,,,
+Queensbridge,nyu_2451_34572.305,Queens,Point,-73.945631,40.756091,,,,,,,,
+Randall Manor,nyu_2451_34572.257,Staten Island,Point,-74.098051,40.63563,,,,,,,,
+Ravenswood,nyu_2451_34572.187,Queens,Point,-73.931575,40.761705,,,,,,,,
+Red Hook,nyu_2451_34572.68,Brooklyn,Point,-74.012759,40.676253,Red Hook,-9999,2300,4287,-9999,1673,2000,2400
+Rego Park,nyu_2451_34572.146,Queens,Point,-73.857827,40.728974,Rego Park,,,,,1675,1850,2300
+Remsen Village,nyu_2451_34572.260,Brooklyn,Point,-73.916653,40.652117,Richmond Hill,,,,,1811,1695,1980
+Richmond Hill,nyu_2451_34572.138,Queens,Point,-73.831833,40.697947,,,,,,,,
+Richmond Town,nyu_2451_34572.252,Staten Island,Point,-74.134057,40.569606,,,,,,,,
+Richmond Valley,nyu_2451_34572.294,Staten Island,Point,-74.229571,40.519541,,,,,,,,
+Ridgewood,nyu_2451_34572.144,Queens,Point,-73.901435,40.708323,Ridgewood,,,,,1375,1800,2000
+Riverdale,nyu_2451_34572.5,Bronx,Point,-73.912585,40.890834,Riverdale,,,,,1800,1850,2600
+Riverside Dr./West End Ave.,,Manhattan,Point,-73.948488,40.836572,Riverside Dr./West End Ave.,2330,3414,5966,9020,,,
+Rochdale,nyu_2451_34572.167,Queens,Point,-73.772588,40.675211,Rochdale,,,,,,,2148
+Rockaway Beach,nyu_2451_34572.179,Queens,Point,-73.822361,40.582802,Rockaway Beach,,,,,2839,1700,2000
+Rockaway Park,nyu_2451_34572.192,Queens,Point,-73.841534,40.580343,,,,,,,,
+Roosevelt Island,nyu_2451_34572.111,Manhattan,Point,-73.949168,40.76216,Roosevelt Island,2696,3257,4411,5445,1570,2825,4478
+Rosebank,nyu_2451_34572.201,Staten Island,Point,-74.069805,40.615305,Rosebank,,,,,,1550,1850
+Rosedale,nyu_2451_34572.170,Queens,Point,-73.735261,40.659816,Rosedale,,,,,,2325,1800
+Rossville,nyu_2451_34572.241,Staten Island,Point,-74.215729,40.549404,Rossville,,,,,,1400,
+Roxbury,nyu_2451_34572.289,Queens,Point,-73.892138,40.567376,,,,,,,,
+Rugby,nyu_2451_34572.224,Brooklyn,Point,-73.926882,40.655572,,,,,,,,
+Sandy Ground,nyu_2451_34572.287,Staten Island,Point,-74.217766,40.54114,,,,,,,,
+Schuylerville,nyu_2451_34572.39,Bronx,Point,-73.826203,40.82658,,,,,,,,
+Sea Gate,nyu_2451_34572.86,Brooklyn,Point,-74.007873,40.576375,Sea Gate,,,,,,1650,
+Sheepshead Bay,nyu_2451_34572.53,Brooklyn,Point,-73.943186,40.58689,Sheepshead Bay,,,,,2400,1665,2200
+Shore Acres,nyu_2451_34572.253,Staten Island,Point,-74.066678,40.609719,,,,,,,,
+Silver Lake,nyu_2451_34572.220,Staten Island,Point,-74.09629,40.619193,Silver Lake,,,,,,,2100
+Soho,nyu_2451_34572.123,Manhattan,Point,-74.000657,40.722184,SoHo,3589,4556,9711,13621,1998,2895,3850
+Somerville,nyu_2451_34572.193,Queens,Point,-73.796648,40.597711,,,,,,,,
+Soundview,nyu_2451_34572.27,Bronx,Point,-73.865746,40.821012,,,,,,,,
+South Beach,nyu_2451_34572.205,Staten Island,Point,-74.079553,40.580247,South Beach,,,,,,,1800
+South Jamaica,nyu_2451_34572.165,Queens,Point,-73.790426,40.696911,South Jamaica,,,,,,,2100
+South Ozone Park,nyu_2451_34572.149,Queens,Point,-73.809865,40.66855,South Ozone Park,,,,,,1653,1950
+South Side,nyu_2451_34572.98,Brooklyn,Point,-73.958001,40.710861,,,,,,,,
+South Slope - Greenwood Heights,,Brooklyn,Point,-74.003262,40.65737,South Slope - Greenwood Heights,2400,2248,2780,4000,,,
+Springfield Gardens,nyu_2451_34572.168,Queens,Point,-73.760421,40.66623,Springfield Gardens,,,,,,2050,
+Spuyten Duyvil,nyu_2451_34572.36,Bronx,Point,-73.91719,40.881395,,,,,,,,
+St. Albans,nyu_2451_34572.166,Queens,Point,-73.758676,40.694445,St. Albans,,,,,,1450,2300
+St. George,nyu_2451_34572.198,Staten Island,Point,-74.079353,40.644982,St. George,,,,,1838,1700,2298
+Stapleton,nyu_2451_34572.200,Staten Island,Point,-74.077902,40.626928,Stapleton,,,,,3650,1945,3200
+Starrett City,nyu_2451_34572.74,Brooklyn,Point,-73.87937,40.647589,,,,,,,,
+Steinway,nyu_2451_34572.174,Queens,Point,-73.90229,40.775923,,,,,,,,
+Stuyvesant Town,nyu_2451_34572.276,Manhattan,Point,-73.974052,40.731,Stuyvesant Town - Peter Cooper Village,,,,,5900,3606,4100
+Sunnyside,nyu_2451_34572.141,Queens,Point,-73.926916,40.740176,,,,,,,,
+Sunnyside,nyu_2451_34572.221,Staten Island,Point,-74.097126,40.61276,,,,,,,,
+Sunnyside Gardens,nyu_2451_34572.278,Queens,Point,-73.918193,40.745652,,,,,,,,
+Sunset Park,nyu_2451_34572.49,Brooklyn,Point,-74.010316,40.645103,Sunset Park,1400,1912,2300,2500,2423,1725,1900
+Theater District,,Manhattan,Point,-73.984464,40.759043,Theater District,,,,,3279,3300,4850
+Sutton Place,nyu_2451_34572.272,Manhattan,Point,-73.963556,40.76028,,,,,,,,
+Throgs Neck,nyu_2451_34572.29,Bronx,Point,-73.81635,40.815109,Throgs Neck,,,,,2538,1750,1950
+Todt Hill,nyu_2451_34572.204,Staten Island,Point,-74.111329,40.597069,,,,,,,,
+Tompkinsville,nyu_2451_34572.219,Staten Island,Point,-74.080554,40.637316,Tompkinsville,,,,,,1888,2800
+Tottenville,nyu_2451_34572.218,Staten Island,Point,-74.246569,40.505334,Tottenville,,,,,,1400,
+Travis,nyu_2451_34572.211,Staten Island,Point,-74.190737,40.586314,Travis - Chelsea,,,,,,,1800
+Tribeca,nyu_2451_34572.121,Manhattan,Point,-74.010683,40.721522,Tribeca,3502,5543,9650,15886,1650,3800,5625
+Tudor City,nyu_2451_34572.275,Manhattan,Point,-73.971219,40.746917,,,,,,,,
+Turtle Bay,nyu_2451_34572.274,Manhattan,Point,-73.967708,40.752042,Turtle Bay/United Nations,2237,3430,5133,12517,,,
+Two Bridges,,Manhattan,Point,-73.992555,40.711727,Two Bridges,,,,,1450,1827,3203
+Unionport,nyu_2451_34572.45,Bronx,Point,-73.850535,40.829774,Unionport,,,,,1300,1600,1775
+University Heights,nyu_2451_34572.15,Bronx,Point,-73.910416,40.855727,University Heights,,,,,1898,1650,1995
+Upper East Side,nyu_2451_34572.108,Manhattan,Point,-73.960508,40.775639,Upper East Side,,,,,1975,2395,3295
+Upper West Side,nyu_2451_34572.112,Manhattan,Point,-73.977059,40.787658,Upper West Side,,,,,1400,2750,4350
+Utopia,nyu_2451_34572.265,Queens,Point,-73.796717,40.7335,,,,,,,,
+Van Cortlandt Village,,Bronx,,-73.894275,40.883644,Van Cortlandt Village,,,,,2700,1500,1983
+Van Nest,nyu_2451_34572.33,Bronx,Point,-73.866299,40.843608,Van Nest,,,,,,1875,2200
+Vinegar Hill,nyu_2451_34572.281,Brooklyn,Point,-73.981116,40.703321,Vinegar Hill,,,,,1475,2400,4500
+Wakefield,nyu_2451_34572.1,Bronx,Point,-73.847201,40.894705,Wakefield,,,,,1650,1600,1800
+Washington Heights,nyu_2451_34572.102,Manhattan,Point,-73.9369,40.851903,Washington Heights,1978,2039,2425,2859,1937,1775,2163
+Weeksville,nyu_2451_34572.282,Brooklyn,Point,-73.930531,40.67504,,,,,,,,
+West Brighton,nyu_2451_34572.202,Staten Island,Point,-74.107182,40.631879,West Brighton,,,,,,2400,1800
+West Farms,nyu_2451_34572.19,Bronx,Point,-73.877745,40.839475,West Farms,,,,,,1500,1700
+West Village,nyu_2451_34572.124,Manhattan,Point,-74.00618,40.734434,West Village,2765,4169,7026,11903,1100,3310,4995
+Westchester Square,nyu_2451_34572.32,Bronx,Point,-73.842194,40.840619,Westchester Village,,,,,2491,1700,1725
+Westerleigh,nyu_2451_34572.226,Staten Island,Point,-74.133041,40.62109,Westerleigh,,,,,,1250,1800
+Whitestone,nyu_2451_34572.151,Queens,Point,-73.814202,40.781291,Whitestone,,,,,,1999,2150
+Williamsbridge,nyu_2451_34572.10,Bronx,Point,-73.857446,40.881039,Williamsbridge,,,,,,1700,2100
+Williamsburg,nyu_2451_34572.62,Brooklyn,Point,-73.958115,40.707144,Williamsburg,2712,3166,4043,5081,1900,2500,2584
+Willowbrook,nyu_2451_34572.286,Staten Island,Point,-74.132084,40.603707,Willowbrook,,,,,,1200,1550
+Windsor Terrace,nyu_2451_34572.59,Brooklyn,Point,-73.980073,40.656946,Windsor Terrace,1939,2563,2877,3679,1627,2196,2952
+Wingate,nyu_2451_34572.223,Brooklyn,Point,-73.937187,40.660947,,,,,,,,
+Woodhaven,nyu_2451_34572.147,Queens,Point,-73.85811,40.689887,Woodhaven,,,,,1550,1555,1925
+Woodlawn Heights,nyu_2451_34572.8,Bronx,Point,-73.867315,40.898273,Woodlawn Heights,,,,,,1700,2100
+Woodrow,nyu_2451_34572.217,Staten Island,Point,-74.205246,40.541968,Woodrow,,,,,,1400,
+Woodside,nyu_2451_34572.131,Queens,Point,-73.901842,40.746349,Woodside,,,,,1700,1700,2173
+Woodstock,,Bronx,Point,73.903243,40.817445,Woodstock,,,,,,,1950
+Yorkville,nyu_2451_34572.109,Manhattan,Point,-73.947118,40.77593,Yorkville,2215,2838,4181,7084,,,
