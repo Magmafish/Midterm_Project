@@ -162,7 +162,6 @@ Kew Gardens Hills,nyu_2451_34572.158,Queens,Point,40.722578,-73.820878,,,,,1500,
 Kingsbridge,nyu_2451_34572.6,Bronx,Point,40.881687,-73.902818,,,,,2150,1700,2198
 Kingsbridge Heights,nyu_2451_34572.300,Bronx,Point,40.870392,-73.901523,,,,,,,
 Kips Bay,MJB.12,Manhattan,Point,40.741068,-73.977322,,,,,2125,2698,3646
-Koreatown,MJB.13,Manhattan,Point,40.74771,-73.98678,,,,,1085,2500,2888
 Laurelton,nyu_2451_34572.189,Queens,Point,40.667884,-73.740256,,,,,3098,1600,2000
 Lefrak City,nyu_2451_34572.190,Queens,Point,40.736075,-73.862525,,,,,,,
 Lenox Hill,nyu_2451_34572.110,Manhattan,Point,40.768113,-73.95886,2316,3277,5106,8553,,,
@@ -190,7 +189,7 @@ Melrose,nyu_2451_34572.21,Bronx,Point,40.819754,-73.909422,,,,,,1600,2095
 Middle Village,nyu_2451_34572.291,Queens,Point,40.716415,-73.881143,,,,,,1800,2100
 Midland Beach,nyu_2451_34572.233,Staten Island,Point,40.573527,-74.093483,,,,,,,1700
 Midtown,nyu_2451_34572.115,Manhattan,Point,40.754691,-73.981669,2485,3613,6711,12280,2200,3208,4600
-Midtown South,nyu_2451_34572.251,Manhattan,Point,40.74851,-73.988713,2589,3680,6138,14892,,,
+Midtown South,nyu_2451_34572.251,Manhattan,Point,40.74851,-73.988713,2589,3680,6138,14892,1085,2500,2888
 Midwood,nyu_2451_34572.93,Brooklyn,Point,40.625596,-73.957595,,,,,1500,1688,2000
 Mill Basin,nyu_2451_34572.263,Brooklyn,Point,40.615974,-73.915154,,,,,,,1950
 Mill Island,nyu_2451_34572.77,Brooklyn,Point,40.606336,-73.908186,,,,,,,
