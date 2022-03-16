@@ -1,0 +1,39 @@
+﻿neighborhood,id,borough,type,lat,long,studio,year
+Bedford Stuyvesant,nyu_2451_34572.64,Brooklyn,Point,40.687232,-73.941785,2044,2020
+Boerum Hill,nyu_2451_34572.88,Brooklyn,Point,40.685683,-73.983748,2092,2020
+Brooklyn Heights,nyu_2451_34572.65,Brooklyn,Point,40.695864,-73.993782,2509,2020
+Bushwick,nyu_2451_34572.63,Brooklyn,Point,40.698116,-73.925258,2050,2020
+Carroll Gardens,nyu_2451_34572.67,Brooklyn,Point,40.68054,-73.994654,2271,2020
+Clinton Hill,nyu_2451_34572.85,Brooklyn,Point,40.693229,-73.967843,2409,2020
+Cobble Hill,nyu_2451_34572.66,Brooklyn,Point,40.68792,-73.998561,2100,2020
+Crown Heights,nyu_2451_34572.56,Brooklyn,Point,40.670829,-73.943291,1806,2020
+Downtown,nyu_2451_34572.87,Brooklyn,Point,40.690844,-73.983463,2443,2020
+Dumbo,nyu_2451_34572.284,Brooklyn,Point,40.703176,-73.988753,3189,2020
+Fort Greene,nyu_2451_34572.70,Brooklyn,Point,40.688527,-73.972906,2957,2020
+Gowanus,nyu_2451_34572.69,Brooklyn,Point,40.673931,-73.994441,2293,2020
+Greenpoint,nyu_2451_34572.50,Brooklyn,Point,40.730201,-73.954241,2347,2020
+Kensington,nyu_2451_34572.58,Brooklyn,Point,40.642382,-73.980421,1724,2020
+Park Slope,nyu_2451_34572.71,Brooklyn,Point,40.672321,-73.97705,2795,2020
+Prospect Heights,nyu_2451_34572.60,Brooklyn,Point,40.676822,-73.964859,2393,2020
+Sunset Park,nyu_2451_34572.49,Brooklyn,Point,40.645103,-74.010316,1400,2020
+Williamsburg,nyu_2451_34572.62,Brooklyn,Point,40.707144,-73.958115,2712,2020
+Windsor Terrace,nyu_2451_34572.59,Brooklyn,Point,40.656946,-73.980073,1939,2020
+Bedford Stuyvesant,nyu_2451_34572.64,Brooklyn,Point,40.687232,-73.941785,1650,2021
+Boerum Hill,nyu_2451_34572.88,Brooklyn,Point,40.685683,-73.983748,2446,2021
+Brooklyn Heights,nyu_2451_34572.65,Brooklyn,Point,40.695864,-73.993782,1850,2021
+Bushwick,nyu_2451_34572.63,Brooklyn,Point,40.698116,-73.925258,1731,2021
+Carroll Gardens,nyu_2451_34572.67,Brooklyn,Point,40.68054,-73.994654,2175,2021
+Clinton Hill,nyu_2451_34572.85,Brooklyn,Point,40.693229,-73.967843,1800,2021
+Cobble Hill,nyu_2451_34572.66,Brooklyn,Point,40.68792,-73.998561,1457,2021
+Crown Heights,nyu_2451_34572.56,Brooklyn,Point,40.670829,-73.943291,1945,2021
+Downtown,nyu_2451_34572.87,Brooklyn,Point,40.690844,-73.983463,2546,2021
+Dumbo,nyu_2451_34572.284,Brooklyn,Point,40.703176,-73.988753,2300,2021
+Fort Greene,nyu_2451_34572.70,Brooklyn,Point,40.688527,-73.972906,947,2021
+Gowanus,nyu_2451_34572.69,Brooklyn,Point,40.673931,-73.994441,2400,2021
+Greenpoint,nyu_2451_34572.50,Brooklyn,Point,40.730201,-73.954241,2300,2021
+Kensington,nyu_2451_34572.58,Brooklyn,Point,40.642382,-73.980421,1450,2021
+Park Slope,nyu_2451_34572.71,Brooklyn,Point,40.672321,-73.97705,2500,2021
+Prospect Heights,nyu_2451_34572.60,Brooklyn,Point,40.676822,-73.964859,1850,2021
+Sunset Park,nyu_2451_34572.49,Brooklyn,Point,40.645103,-74.010316,2423,2021
+Williamsburg,nyu_2451_34572.62,Brooklyn,Point,40.707144,-73.958115,1900,2021
+Windsor Terrace,nyu_2451_34572.59,Brooklyn,Point,40.656946,-73.980073,1627,2021
