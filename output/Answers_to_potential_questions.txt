@@ -1,0 +1,36 @@
+2020 rental data was thrown out partly because it was missing 2/3 of neighborhoods and because it strongly differed from 2021 
+we performed hypothesis tests to comfrim this:
+all avalable data confirmed that rental pricees in nyc decreased from 2020 to 2021: 6.6% for studio, -23.7% br_1 and -32.6 for br_2 
+was just easier
+
+
+2021 data was missing data for 1/3 of the neighborhoods
+we could trandformed non-overlaping 2020 data through regression, or
+filled in missing entries with the avereage by borough
+but in the end we filled in missing data manually through google searches 
+
+
+data scaing
+potential data anomalies
+
+
+challenges:
+-Git
+-finding bpropriate data data
+-joining data
+-data cleanup
+-data scaling - standad scalar vs max min scaler
+ 
+-population is actually negatively correlated with number of schools which is wierd because rental rates are higher near schools and according to the law of supply and demand higher demand leads to higher price
+
+-but schools are big an you can't live there
+
+We thought that studios and br_1 shouldn't be correlated with schools unless they are post secondary schools
+and that br_2 and larger may be correlated to primary and high-schools
+but we didn't find this - probably due to the way cites tend to segrigate residentatal and commercial properties with zoning regualtions
+
+
+
+
+
+
